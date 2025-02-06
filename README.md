@@ -15,7 +15,7 @@ Built exclusively using Rust's standard library, it runs on any platform and arc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pj1234678/RustySOCKS5
+   git clone https://github.com/pj1234678/RustySOCKS5.git
    cd rustysocks5
    ```
 
